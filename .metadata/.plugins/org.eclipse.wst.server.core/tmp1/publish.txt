@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Sep 15 23:51:56 BRT 2017
+org.eclipse.jst.jee.server\:/binary\:/home/junior/.m2/repository/org/springframework/spring-web/4.3.0.RELEASE/spring-web-4.3.0.RELEASE.jar=/home/junior/Documentos/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/base-instance/wtpwebapps/brewer/WEB-INF/lib/spring-web-4.3.0.RELEASE.jar
+org.eclipse.jst.jee.server\:brewer=/home/junior/Documentos/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE/base-instance/wtpwebapps/brewer

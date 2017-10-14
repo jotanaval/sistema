@@ -1,0 +1,361 @@
+!SESSION 2017-09-15 23:34:37.699 -----------------------------------------------
+eclipse.buildId=3.9.0.201707061823-RELEASE-e47
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui 2 2 2017-09-15 23:36:38.340
+!MESSAGE org.eclipse.jdt.junit.ResultView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2017-09-15 23:36:38.352
+!MESSAGE org.springframework.ide.eclipse.aop.ui.navigator.aopReferenceModelNavigator: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2017-09-15 23:36:38.353
+!MESSAGE org.eclipse.contribution.xref.ui.views.XReferenceView: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.jface.text 2 0 2017-09-15 23:36:59.324
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-09-15 23:36:59.324
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:40:02.631
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:40:02.708
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:47:37.884
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:47:37.884
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-15 23:47:53.339
+!MESSAGE Could not determine source level, using default 1.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-15 23:47:53.340
+!MESSAGE Could not determine target level, using default 1.5
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-09-15 23:48:18.530
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:50:26.469
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:50:26.500
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:50:26.608
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-09-15 23:50:26.608
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-15 23:50:27.941
+!MESSAGE Could not determine source level, using default 1.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-15 23:50:27.942
+!MESSAGE Could not determine target level, using default 1.5
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2017-09-15 23:51:21.107
+!MESSAGE Could not load the Tomcat server configuration at /Servers/Tomcat v8.0 Server at localhost-config. The configuration may be corrupt or incomplete.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not load the Tomcat server configuration at /Servers/Tomcat v8.0 Server at localhost-config. The configuration may be corrupt or incomplete.
+	at org.eclipse.jst.server.tomcat.core.internal.Tomcat80Configuration.load(Tomcat80Configuration.java:313)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServer.getTomcatConfiguration(TomcatServer.java:130)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.getTomcatConfiguration(TomcatServerBehaviour.java:80)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:233)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 2 0 2017-09-15 23:51:21.110
+!MESSAGE Could not load the Tomcat server configuration at /Servers/Tomcat v8.0 Server at localhost-config. The configuration may be corrupt or incomplete.
+!SESSION 2017-10-03 13:52:47.101 -----------------------------------------------
+eclipse.buildId=3.9.0.201707061823-RELEASE-e47
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-03 13:55:22.115
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-03 13:55:22.144
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 13:56:35.315
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 13:56:35.316
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 13:56:38.565
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-03 14:07:03.897
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-03 14:07:03.898
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-03 14:07:04.091
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-03 14:07:04.092
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 14:10:12.131
+!MESSAGE The POM for javax.servlet:javax.servlet.api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 14:10:13.090
+!MESSAGE The POM for javax.servlet:javax.servlet.api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2017-10-03 14:53:41.917
+!MESSAGE Connection to http://dist.springsource.com/release/STS/doc/updates.xml failed on dist.springsource.com: Falha temporário na resolução de nome. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: dist.springsource.com: Falha temporário na resolução de nome
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:262)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:161)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:612)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:447)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:884)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2017-10-03 14:53:42.551
+!MESSAGE Connection to https://spring.io/blog.atom failed on spring.io: Falha temporário na resolução de nome. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: spring.io: Falha temporário na resolução de nome
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:262)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:161)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:612)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:447)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:884)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:23:59.068
+!MESSAGE The POM for javax.servlet:javax.servlet.api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:24:48.325
+!MESSAGE The POM for javax.servlet:javax.servlet.api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:25:29.708
+!MESSAGE The POM for javax.servlet:javax.servlet.api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:25:30.015
+!MESSAGE The POM for javax.servlet:javax.servlet.api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:26:11.522
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:26:11.523
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:27:05.014
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:27:05.585
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:27:06.532
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:27:06.551
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:33:05.144
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:33:22.812
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:33:23.890
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:33:24.189
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 15:33:24.358
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:33:24.411
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:35:33.560
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:35:33.580
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:35:59.930
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:36:00.253
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:36:00.266
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:36:06.098
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:36:22.011
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:36:32.091
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:36:32.376
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 15:36:32.545
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:36:32.573
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 15:40:38.246
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 15:40:38.246
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:40:55.063
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:40:57.014
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:40:57.444
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:40:57.844
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:46:34.341
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 15:46:34.359
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+!SESSION 2017-10-03 20:25:49.758 -----------------------------------------------
+eclipse.buildId=3.9.0.201707061823-RELEASE-e47
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 20:26:43.639
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 20:28:42.758
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 20:28:43.607
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 20:28:43.723
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-03 20:28:46.442
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-03 20:28:46.793
+!MESSAGE Non IFiles not supported yet
+!SESSION 2017-10-14 18:59:44.174 -----------------------------------------------
+eclipse.buildId=3.9.0.201707061823-RELEASE-e47
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:00:32.577
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:19:52.419
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:19:52.469
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:19:54.726
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:19:54.726
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:19:54.961
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:19:54.994
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:19:56.594
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:19:56.620
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:19:56.955
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:20:00.369
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:20:01.664
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-14 19:20:02.243
+!MESSAGE The POM for javax.servlet:javax.servlet-api:jar:${servlet.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:29:28.520
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:29:28.521
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:29:28.596
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:29:28.596
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:30:00.329
+!MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.lsp4e 1 0 2017-10-14 19:30:00.330
+!MESSAGE Non IFiles not supported yet
